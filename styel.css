@@ -1,0 +1,107 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    max-width:80vw ;
+}
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li
+{
+    list-style: none;
+    margin: 0px  12px;
+}
+.topleft{
+    width:50%;
+    height:155px;
+}
+.topright{
+    width:50%;
+    padding: 12px 0;
+}
+.section1
+{
+   min-height: 50vh;
+}
+.section1 h1{
+    font-size: 2rem;
+}
+.logo{
+    font-size: 1.3rem;
+}
+.dumbellimg
+{
+    width: 283px;
+    padding:0px 133px;
+    
+}
+.topright .fitness
+{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.section2{
+    padding-left: 103px;
+    padding-right: 63px;
+}
+.box{
+    padding: 8px 0px;
+    min-height:20vw;
+    min-width: 20vw;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 2px;
+}
+.box ul{
+    list-style-type: none;
+}
+.box ul li{
+    margin: 12px 2px;
+}
+.box h2{
+    font-size: 2 rem;
+    padding: 12px 0;
+    margin: 12px 0;
+}
+.section3 table{
+    width: 100%;
+    margin-bottom: 40px;
+margin-bottom: 40px;    
+    border-collapse: collapse;
+}
+.section3 table th{
+  width: 23vw;
+  border-bottom: 2px solid black;
+  padding: 15px 0 ;
+}
+.section3 table td{
+   
+}
+.section3
+{
+    padding-left: 63px;
+    padding-right: 63px;
+}
+.section3 h1{
+    font-size: 2.3rem;   
+}
+.plantable
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer
+{
+    padding: 23px;
+    text-align: center;
+}
